@@ -1,6 +1,9 @@
 import tkinter as tk
 from tkinter import ttk
-from tkinter import font, colorchooser, filedialog, messagebox
+from tkinter import font
+from tkinter import colorchooser
+from tkinter import filedialog
+from tkinter import messagebox
 import os
 
 main_app = tk.Tk()
